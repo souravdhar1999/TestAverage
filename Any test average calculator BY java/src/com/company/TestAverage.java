@@ -42,6 +42,8 @@ public class TestAverage{
 
         else if(average<80 && average>=70){
             System.out.println("  Your average is c ");
+             System.out.println("  Your average is c ");
+            
 
         }
 
